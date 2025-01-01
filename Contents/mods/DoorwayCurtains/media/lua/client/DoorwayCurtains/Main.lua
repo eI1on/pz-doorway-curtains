@@ -208,13 +208,6 @@ function ISMoveableSpriteProps:walkToAndEquip(_character, _square, _mode)
     return DoorwayCurtainsModule.oldWalkToAndEquip(self, _character, _square, _mode);
 end
 
---- Helper function to process square objects and move curtains to the right place
---- @param squareObjects ArrayList|PZArrayList
---- @param object IsoObject
-function DoorwayCurtainsModule.updateSquareObjects(squareObjects, object)
-
-end
-
 --- @param object IsoObject
 DoorwayCurtainsModule.onObjectAdded = function(object)
     if instanceof(object, "IsoCurtain") then

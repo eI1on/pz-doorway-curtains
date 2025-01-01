@@ -1,0 +1,6 @@
+ NOV 24
+
+Changelog:
+[list]
+[*] Fixed conflict with Furniture Tweaks
+[/list]

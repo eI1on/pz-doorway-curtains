@@ -1,6 +1,9 @@
 name=[B41/B42] Doorway Curtains
 poster=poster.png
 id=DoorwayCurtains
+author=Elyon
 description=This mod adds walk-through curtains to doorways, making it easy to pass through without opening. Adds a practical and immersive detail to your base.
+modversion=0.0.1
 tags=Build 42,Build 41,Misc,Multiplayer,Interface
-versionMin=41.0
+versionMin=42.0
+icon=poster.png
